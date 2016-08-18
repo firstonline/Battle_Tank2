@@ -1,12 +1,6 @@
-Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/learn-to-make-video-games-unreal-developer-course) Kickstarter campaign which was over 1000% funded.
+#Battle Tank Game
 
-These are just the files from the course, not the actual tutorial videos. This course is exclusively hosted on Udemy.com, and has many hours of high-quality videos.
-
-You're welcome to download, fork or do whatever else legal with all the files!
-
-Enjoy yourself.
-
-Ben Tristem
+Game is created by following tutorial for Unreal Engine made by Ben Tristem on [udemy.com](https://www.udemy.com) website.
 
 ---
 Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
